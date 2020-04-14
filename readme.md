@@ -17,7 +17,7 @@
 
 ## About the project
 
-This is the public translation repository, when XIVDATA will come to a state of public access, we will push translation files into this repository to give the community the ability helping translate the page.
+This is the public translation repository, when XIVDATA will come to a state of public access, we will push translation files into this repository and give the community the ability to help translate the page.
 
 ## Contributing
 
