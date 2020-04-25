@@ -20,5 +20,6 @@ return[
     'charactername' => 'Character Name',
     'actions' => 'Actions',
     'loginsucefully' => 'Well done! You are logged in! Now enjoy it!',
-    'translations' => 'Translations'
+    'translations' => 'Translations',
+    'verifymail' => 'Verify Mail Adress',
 ];

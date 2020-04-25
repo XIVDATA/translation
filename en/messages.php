@@ -38,7 +38,7 @@ return [
     'newscreenshots' => 'Latest Screenshots',
     'discord' => 'Discord',
     'login' => 'Login',
-    'login.subtitle' => 'Enter your Login credits',
+    'login_subtitle' => 'Enter your Login credits',
     'emailadress' => 'Email',
     'password' => 'Password',
     'confirm_password' => 'Confirm Password',
@@ -46,8 +46,6 @@ return [
     'forgot_password' => 'Forgot Password?',
     'register' => 'Register',
     'register_subtitle' => 'Regristrate for XIVDATA',
-    'tosinfo' => 'With the registration you accept XIVDATA`s',
-    'tos' => 'Terms of Service',
     'accountalready' => 'Already an Account?',
     'name' => 'Username',
     'latestcomments' => 'Latest Comments'
