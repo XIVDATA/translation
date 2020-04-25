@@ -1,7 +1,7 @@
 # XIVDATA
 <p align="center>
     <a href="https://github.com/syntafin/xivdata/blob/master/LICENSE"><img src="https://img.shields.io/github/license/syntafin/xivdata?label=License&labelColor=30363D&color=2FBF50" alt="License"></a>
-    <a href="https://github.com/syntafin/xivdata/graphs/contributors"><img src="https://img.shields.io/github/contributors/syntafin/xivdata?label=Contributors&labelColor=30363D&color=2FBF50" alt="Contributors"></a>
+    <a href="https://github.com/xivdata/translation/graphs/contributors"><img src="https://img.shields.io/github/contributors/syntafin/xivdata?label=Contributors&labelColor=30363D&color=2FBF50" alt="Contributors"></a>
     <a href="https://discord.gg/R8KjJWE"><img src="https://img.shields.io/discord/532518284998737920?label=Discord&labelColor=30363D&color=2FBF50&logoColor=959DA5&logo=Discord" alt="Discord"></a>
 </p>
 
