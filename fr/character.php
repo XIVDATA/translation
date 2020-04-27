@@ -1,8 +1,8 @@
 <?php
 
 return [
-    'name' => 'Name',
-    'gender' => 'Gender',
+    'name' => 'Nom',
+    'gender' => 'Sexe',
     'race' => 'Race',
     'tribe' => 'Tribe',
     'screenshots' => 'Screenshots',

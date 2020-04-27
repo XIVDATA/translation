@@ -1,9 +1,9 @@
 <?php
 
 return [
-    'name' => 'Name',
-    'gender' => 'Gender',
-    'race' => 'Race',
+    'name' => '名前',
+    'gender' => '性別',
+    'race' => '種族',
     'tribe' => 'Tribe',
     'screenshots' => 'Screenshots',
     'birthday' => 'Birthday',

@@ -2,8 +2,8 @@
 
 return [
     'name' => 'Name',
-    'gender' => 'Gender',
-    'race' => 'Race',
+    'gender' => 'Geschlecht',
+    'race' => 'Rasse',
     'tribe' => 'Tribe',
     'screenshots' => 'Screenshots',
     'birthday' => 'Birthday',
