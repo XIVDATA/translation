@@ -11,7 +11,7 @@ return [
     'search' => 'Suche...',
     'previous' => 'Vorherige',
     'next' => 'Nächste',
-    'character' => 'Charakter',
+    'character' => 'Charaktere',
     'moreinfo' => 'Mehr',
     'linkshell' => 'Kontaktkreis',
     'messages' => 'Nachrichten',
@@ -48,7 +48,7 @@ return [
     'register_subtitle' => 'Bei XIVDATA registrieren',
     'tosinfo' => 'Mit deiner Registrierung stimmst XIVDATAs',
     'tos' => 'Nutzungsbedinungen',
-    'accountalready' => 'Bereits einen Account?',
+    'accountalready' => 'Du besitzt bereits einen Account?',
     'name' => 'Benutzername',
     'latestcomments' => 'Neuste Kommentare'
 ];

@@ -1,6 +1,6 @@
 <?php
 return[
-    'view' => 'View',
+    'view' => 'Voir',
     'date' => 'Date',
     'pageinfo' => 'Info'
 ];

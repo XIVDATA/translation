@@ -1,6 +1,4 @@
 <?php
 return [
-    'part1' => 'Created with',
-    'part2' => 'by',
-    'part3' => 'For a better Eorzea'
+    'copyright_xivdata' => 'Erstellt mit <i class="mdi mdi-heart text-danger"></i> von <a href="https://syntafin.dev" target="_blank">Syntafin</a>. Für ein besseres Eorzea.'
 ];

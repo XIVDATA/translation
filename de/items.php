@@ -1,9 +1,9 @@
 <?php
 
 return [
-    'description' => 'Description',
-    'comments' => 'Comments',
+    'description' => 'Beschreibung',
+    'comments' => 'Kommentare',
     'crafting' => 'Synthese',
-    'merchants' => 'Vendors',
+    'merchants' => 'Händler',
     'screenshots' => 'Screenshots'
 ];

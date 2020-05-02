@@ -1,10 +1,9 @@
 <?php
 
 return [
-    '404' => 'Not Found',
-    '404desc' => '',
-    '500' => 'Server Error',
-    '500desc' => 'Something went wrong!',
-    '503' => 'Rasse',
-    '404desc' => ''
+    '404' => 'Nicht gefunden',
+    '404desc' => 'Seite nicht gefunden.',
+    '500' => 'Serverfehler',
+    '500desc' => 'Etwas ist schief gelaufen!',
+    '503' => 'Zugriff verweigert'
 ];

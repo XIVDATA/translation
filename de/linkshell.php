@@ -1,9 +1,9 @@
 <?php
 return [
     'member' => 'Member',
-    'apply' => 'Apply',
-    'description' => 'More Information about the Linkshell {{ $Name }}',
+    'apply' => 'Bewerben',
+    'description' => 'Mehr Informationen über {{ $Name }}',
     'name' => 'Name',
-    'rank' => 'Rank',
-    'moreinfo' => 'More Info'
+    'rank' => 'Rang',
+    'moreinfo' => 'Mehr Informationen'
 ];
