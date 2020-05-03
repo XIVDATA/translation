@@ -3,7 +3,7 @@
 return [
     'description' => 'Description',
     'comments' => 'Comments',
-    'crafting' => 'Synthese',
+    'crafting' => 'Synthesis',
     'merchants' => 'Vendors',
     'screenshots' => 'Screenshots'
 ];

@@ -2,7 +2,7 @@
 
 return[
     'userprofile' => 'My Profile',
-    'profileinfo' => 'View and Edit your own profile information',
+    'profileinfo' => 'View and Edit your profile information',
     'profile' => 'Profile',
     'pm' => 'Private Messages',
     'settings' => 'Settings',
@@ -19,7 +19,7 @@ return[
     'mycharacterlist' => 'My Characters',
     'charactername' => 'Character Name',
     'actions' => 'Actions',
-    'loginsucefully' => 'Well done! You are logged in! Now enjoy it!',
+    'loginsucefully' => 'Well done! You are now logged in! Enjoy!',
     'translations' => 'Translations',
     'verifymail' => 'Verify Mail Adress',
 ];
