@@ -22,7 +22,7 @@ return [
     'classname' => 'Nom de la Classe/Job',
     'classlevel' => 'Niveau',
     'submitscreenshot' => "Envoyer une nouvelle capture d'écran",
-    'grandcompany0' => 'Aucun',
+    'grandcompany0' => 'Aucune',
     'grandcompany1' => 'Maelstrom',
     'grandcompany3' => 'Immortels',
     'grandcompany2' => 'Ordre des Deux Vipères',

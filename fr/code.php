@@ -1,10 +1,10 @@
 <?php
 
 return [
-    '404' => 'Not Found',
+    '404' => 'Introuvable',
     '404desc' => '',
-    '500' => 'Server Error',
-    '500desc' => 'Something went wrong!',
+    '500' => 'Erreur Serveur',
+    '500desc' => 'Oups! Ca a fait couac!',
     '503' => 'Rasse',
     '404desc' => ''
 ];

@@ -1,8 +1,8 @@
 <?php
 return [
     'info_button' => 'Info',
-    'member_button' => 'Members',
-    'screenshots_button' => 'Screenshots',
-    'bank_button' => 'Bank',
-    'apply_button' => 'Apply'
+    'member_button' => 'Membres',
+    'screenshots_button' => 'Captures d\'écran',
+    'bank_button' => 'Banque',
+    'apply_button' => 'Envoyer une candidature'
 ];

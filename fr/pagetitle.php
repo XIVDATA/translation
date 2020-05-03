@@ -1,4 +1,4 @@
 <?php
 return[
-    'team' => 'Team'
+    'team' => 'Equipe'
 ];
