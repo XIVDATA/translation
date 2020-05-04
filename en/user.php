@@ -22,4 +22,5 @@ return[
     'loginsucefully' => 'Well done! You are now logged in! Enjoy!',
     'translations' => 'Translations',
     'verifymail' => 'Verify Mail Adress',
+    'profiletitle' => 'Profile of'
 ];
