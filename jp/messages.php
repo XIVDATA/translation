@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'welcome' => 'Welcome to XIVDATA',
+    'welcome' => 'XIVDATAへようこそ',
     'subtitle' => 'This is a database for FINAL FANTASY XIV, the MMORPG of the Final Fantasy series.',
     'pagedescription' => 'This is a database for FINAL FANTASY XIV, the MMORPG of the Final Fantasy series.',
     'pagenotfound' => 'Sorry, page not found',
@@ -28,11 +28,11 @@ return [
     'impress' => 'Impress',
     'news' => 'News',
     'member' => 'Member',
-    'screenshots' => 'Screenshots',
-    'german' => 'German',
-    'english' => 'English',
-    'french' => 'French',
-    'japanese' => 'Japanese',
+    'screenshots' => 'スクリーンショット',
+    'german' => 'ドイツ語',
+    'english' => '英語',
+    'french' => 'フランス語',
+    'japanese' => '日本語',
     'database' => 'Database',
     'items' => 'Items',
     'newscreenshots' => 'Latest Screenshots',
@@ -49,6 +49,6 @@ return [
     'tosinfo' => 'With the registration you accept XIVDATA`s',
     'tos' => 'Terms of Service',
     'accountalready' => 'Already an Account?',
-    'name' => 'Username',
+    'name' => 'ユーザー名',
     'latestcomments' => 'Latest Comments'
 ];
