@@ -1,0 +1,30 @@
+<?php
+
+return [
+    'name' => 'character.name',
+    'gender' => 'character.gender',
+    'race' => 'character.race',
+    'tribe' => 'character.tribe',
+    'screenshots' => 'character.screenshots',
+    'birthday' => 'character.birthday',
+    'grandcompanyname' => 'character.grandcompanyname',
+    'freecompany' => 'character.freecompany',
+    'NotA' => 'character.NotA',
+    'class' => 'character.class',
+    'bio' => 'character.bio',
+    'info_button' => 'character.info_button',
+    'portrait' => 'character.portrait',
+    'classjobs' => 'character.classjobs',
+    'mounts' => 'character.mounts',
+    'minions' => 'character.minions',
+    'archievments' => 'character.archievments',
+    'classicon' => 'character.classicon',
+    'classname' => 'character.classname',
+    'classlevel' => 'character.classlevel',
+    'submitscreenshot' => 'character.submitscreenshot',
+    'grandcompany0' => 'character.grandcompany0',
+    'grandcompany1' => 'character.grandcompany1',
+    'grandcompany3' => 'character.grandcompany3',
+    'grandcompany2' => 'character.grandcompany2',
+    'parsedate' => 'character.parsedate'
+];
