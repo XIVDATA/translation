@@ -1,4 +1,5 @@
 <?php
 return[
-    'team' => 'Team'
+    'team' => 'Team',
+    'aboutus' => 'About Us'
 ];

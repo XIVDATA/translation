@@ -26,5 +26,13 @@ return [
     'grandcompany1' => 'Maelstrom',
     'grandcompany3' => 'Immortal Flames',
     'grandcompany2' => 'Order of the Twin Adder',
-    'parsedate' => 'Last Updated'
+    'parsedate' => 'Last Updated',
+    'linkshells' => 'Linkshells',
+    'cws' => 'Cross-World Linkshells',
+    'trophy_name' => 'Name of Archievement',
+    'trophy_obtained' => 'Obtained',
+    'trophy_points' => 'Points earned',
+    'level' => 'Level',
+    'exptilnextlvl' => 'Expierence needed for next Level:',
+    'percent' => 'Actual Percentage:'
 ];
