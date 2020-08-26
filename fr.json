@@ -1,0 +1,251 @@
+{
+    "main": {
+        "welcome": "Welcome to XIVDATA!",
+        "newscreenshots": "New Screenshots"
+    },
+    "auth": {
+        "failed": "Votre nom d'utilisateur  et/ou mot de passe sont incorrects.",
+        "throttle": "Tentatives de connexion trop nombreuses. Veuillez réessayer dans :seconds secondes.",
+        "noaccount": "Don&apos;t have an account? Sign up now",
+        "discord": "Login with Discord",
+        "termsofservice": "With the registration you accept XIVDATA`s Terms of Service",
+        "accountalready": "Already have an account? Login"
+    },
+    "errors": {
+        "btd": "Back to Dashboard",
+        "404": "Sorry, page ot found",
+        "404desc": "Sounds terrible? Yes! But whatever you looking for here, it is not here. Sorry!",
+        "500": "Server Error",
+        "500desc": "Something went wrong!",
+        "503": "Service Unavailable"
+    },
+    "comments": {
+        "view": "Voir",
+        "date": "Date",
+        "pageinfo": "Info"
+    },
+    "discord": {
+        "voicechannel": "Voice Channel",
+        "no_vc": "No Voice Channel avaible",
+        "membersonline": "Members Online"
+    },
+    "character": {
+        "name": "Nom",
+        "gender": "Sexe",
+        "race": "Race",
+        "tribe": "Tribu",
+        "screenshots": "Captures d'écran",
+        "birthday": "Anniversaire",
+        "grandcompanyname": "Grand Company",
+        "freecompany": "Compagnie Libre",
+        "NotA": "Indisponible",
+        "class": "Classe",
+        "bio": "Biographie",
+        "info_button": "Info Personnage",
+        "portrait": "Portrait",
+        "classjobs": "Classes/Jobs",
+        "mounts": "Montures",
+        "minions": "Mascottes",
+        "archievments": "Hauts-Faits",
+        "classicon": "Symbole",
+        "classname": "Nom de la Classe/Job",
+        "classlevel": "Niveau",
+        "submitscreenshot": "Envoyer une nouvelle capture d'écran",
+        "grandcompany0": "Aucune",
+        "grandcompany1": "Maelstrom",
+        "grandcompany3": "Immortels",
+        "grandcompany2": "Ordre des Deux Vipères",
+        "parsedate": "Mis à jour le"
+    },
+    "duty": {
+        "info": "Info",
+        "map": "Map",
+        "battles": "Boss Battles",
+        "quests": "Quests",
+        "loot": "Loot",
+        "guides": "Guides"
+    },
+    "footer": {
+        "copyright_xivdata": "Créé avec <i class='fas fa-heart text-danger'></i> par Syntafin. Pour une Eorzéa meilleure."
+    },
+    "freecompany": {
+        "info_button": "Info",
+        "member_button": "Membres",
+        "screenshots_button": "Captures d'écran",
+        "bank_button": "Banque",
+        "apply_button": "Envoyer une candidature"
+    },
+    "index": {
+        "maintenance": "Maintenance Info",
+        "companion": "Companion",
+        "game": "Worlds",
+        "lodestone": "Lodestone",
+        "mog": "Store",
+        "psn": "PSN",
+        "nomt": "No Maintenance",
+        "mt_starttime": "Starts",
+        "mt_endtime": "Ends",
+        "mt_current": "Currently",
+        "mt_current_false": "No",
+        "mt_current_true": "Maintenance Active",
+        "daysleft": "{0} Maintenance is Today|{1} :days Day until Maintenance|[2,*] :days Days until Maintenance",
+        "more": "More"
+    },
+    "item": {
+        "description": "Description",
+        "comments": "Commentaires",
+        "crafting": "Synthèse",
+        "merchants": "Vendeurs",
+        "screenshots": "Captures d'écran"
+    },
+    "linkshell": {
+        "member": "Membre",
+        "apply": "Candidature",
+        "description": "Plus d'information sur la linkshell :name",
+        "name": "Nom",
+        "rank": "Rang",
+        "moreinfo": "Plus d'Info"
+    },
+    "maintenance": {
+        "undermaintenance": "Page is in Maintenance Mode",
+        "faq1": "What does this mean?",
+        "faq2": "How long will it take?",
+        "faq3": "Need Support?",
+        "faq1txt": "The Page is actual under Maintenance Mode, when we are done with it, the page will be back online, just look in a few Minutes again or check Discord/Twitter for furter updates!",
+        "faq2txt": "In the most cases, this is just when we apply a new update, so it just take a few minutes. If there is a longer Outtime, we will post something in Discord/Twitter to inform you! Please dont ask how long it will take there, it is done when it is done.",
+        "faq3txt": "You have a critical question about the Page/Service? Dont hesistate to ask on our Discord! Please dont ask things about the game just because the Page is in Maintenance (you can ask on the Discord, but please not in the Support-Channel!).",
+        "message": "We are currently under Maintenance. We will be back soon."
+    },
+    "messages": {
+        "welcome": "Bienvenue sur XIVDATA",
+        "subtitle": "Ceci est une base de données pour FINAL FANTASY XIV, le MMORPG de la série Final Fantasy.",
+        "pagedescription": "Ceci est une base de données pour FINAL FANTASY XIV, le MMORPG de la série Final Fantasy.",
+        "pagenotfound": "Désolé, nous n'avons pas trouvé cette page.",
+        "pnf_desc": "It will be as simple as Occidental in fact, it will be Occidental to an English person",
+        "backhome": "Retour à l'accueil",
+        "language": "Anglais",
+        "search": "Recherche...",
+        "previous": "Précécent0",
+        "next": "Suivant",
+        "character": "Personnages",
+        "moreinfo": "Plus d'Info",
+        "linkshell": "Linkshells",
+        "messages": "Messages",
+        "home": "Accueil",
+        "freecompany": "Compagnie Libre",
+        "items": "Objets",
+        "linkshells": "Linkshells",
+        "community": "Communauté",
+        "tools": "Outils",
+        "about": "A propos",
+        "aboutus": "A propos de Nous",
+        "team": "L'Equipe",
+        "contact": "Contact",
+        "impress": "Impress",
+        "news": "Actualités",
+        "member": "Membre",
+        "screenshots": "Captures d'écran",
+        "german": "Allemand",
+        "english": "Anglais",
+        "french": "Français",
+        "japanese": "Japonais",
+        "database": "Base de données",
+        "newscreenshots": "Dernières Captures d'écran",
+        "discord": "Discord",
+        "login": "Se connecter",
+        "login.subtitle": "Entrez vos identifiants.",
+        "emailadress": "Email",
+        "password": "Mot de Passe",
+        "confirm_password": "Confirmez le Mot de Passe",
+        "remember_login": "Se souvenir de moi",
+        "forgot_password": "Mot de Passe oublié?",
+        "register": "S'inscrire",
+        "register_subtitle": "S'inscrire sur XIVDATA",
+        "tosinfo": "En vous inscrivant, vous acceptez nos",
+        "tos": "Termes et Conditions",
+        "accountalready": "Déja membre?",
+        "name": "Identifiant",
+        "latestcomments": "Derniers commentaires"
+    },
+    "navbar": {
+        "home": "Home",
+        "freecompany": "Free Company",
+        "items": "ItemsDB",
+        "duties": "ContentDB",
+        "linkshells": "Linkshells",
+        "community": "Community",
+        "tools": "Tools",
+        "about": "About",
+        "aboutus": "About Us",
+        "team": "Team",
+        "contact": "Contact",
+        "impress": "Impress",
+        "news": "News",
+        "member": "Member",
+        "screenshots": "Screenshots",
+        "characters": "Characters",
+        "search": "Search"
+    },
+    "news": {
+        "view": "Plus"
+    },
+    "pagetitle": {
+        "team": "Equipe"
+    },
+    "pagination": {
+        "previous": "&laquo; Précédent",
+        "next": "Suivant &raquo;"
+    },
+    "password": {
+        "reset": "Votre mot de passe a bien été mis à jour!",
+        "sent": "Nous vous avons envoyé par email un lien de changement de mot de passe!",
+        "throttled": "Veuillez attendre avant de réessayer.",
+        "token": "Ce lien de changement de mot de passe est invalide.",
+        "user": "Aucun utilisateur trouvé pour cette addresse email."
+    },
+    "placeholder": {
+        "email": "Enter Email",
+        "username": "Enter Username",
+        "password": "Enter Password"
+    },
+    "settings": {
+        "settings": "Page Settings",
+        "chooselayout": "Choose Theme",
+        "darkmode": "Dark Mode",
+        "lightmode": "Light Mode",
+        "vertical": "Vertical Layout",
+        "horizontal": "Horizontal Layout"
+    },
+    "user": {
+        "userprofile": "Mon profil",
+        "profileinfo": "Voir et mettre à jour les infos de votre profil",
+        "profile": "Profil",
+        "pm": "Messages Privés",
+        "settings": "Configuration",
+        "security": "Securité",
+        "friendlist": "Liste d'Amis",
+        "blacklist": "Liste Noire",
+        "logout": "Se déconnecter",
+        "login": "Se connecter",
+        "register": "S'inscrire",
+        "admin": "Administration",
+        "edit": "Editer",
+        "validate": "Valider",
+        "remove": "Supprimer",
+        "mycharacterlist": "Mes Personnages",
+        "charactername": "Nom du Personnage",
+        "actions": "Actions",
+        "loginsucefully": "Bravo! Vous êtes connecté! Amusez vous bien ;)",
+        "translations": "Traductions"
+    },
+    "validation": {
+        "later": "Will come later in :D do not Translate this!"
+    },
+    "widgets": {
+        "discord_voicechannel": "Voice Channels",
+        "discord_memberlist": "Members Online",
+        "discord_novoice": "No Voice Channels available",
+        "discord_playing": "Playing:",
+        "discord_joinserver": "Join :server"
+    }
+}

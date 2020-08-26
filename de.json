@@ -1,0 +1,253 @@
+{
+    "main": {
+        "welcome": "Willkommen bei XIVDATA!",
+        "newscreenshots": "Neue Screenshots"
+    },
+    "auth": {
+        "failed": "Die angegebenen Daten sind nicht korrekt.",
+        "throttle": "Zu viele Login-Versuche. Bitte versuche es in :seconds Sekunden nochmal.",
+        "noaccount": "Don&apos;t have an account? Sign up now",
+        "discord": "Mit Discord einloggen",
+        "termsofservice": "With the registration you accept XIVDATA`s Terms of Service",
+        "accountalready": "Already have an account? Login"
+    },
+    "errors": {
+        "btd": "Zurück zur Startseite",
+        "404": "Nicht gefunden",
+        "404desc": "Seite nicht gefunden.",
+        "500": "Serverfehler",
+        "500desc": "Etwas ist schief gelaufen!",
+        "503": "Zugriff verweigert"
+    },
+    "comments": {
+        "view": "Ansicht",
+        "date": "Datum",
+        "pageinfo": "Info"
+    },
+    "discord": {
+        "voicechannel": "Voice Channel",
+        "no_vc": "No Voice Channel avaible",
+        "membersonline": "Members Online"
+    },
+    "character": {
+        "name": "Name",
+        "gender": "Geschlecht",
+        "race": "Rasse",
+        "tribe": "Stamm",
+        "screenshots": "Screenshots",
+        "birthday": "Geburtstag",
+        "grandcompanyname": "Staatliche Gesellschaft",
+        "freecompany": "Freie Gesellschaft",
+        "NotA": "Nicht verfügbar",
+        "class": "Klasse",
+        "bio": "Biographie",
+        "info_button": "Charakterinformation",
+        "portrait": "Portrait",
+        "classjobs": "Klassen/Jobs",
+        "mounts": "Reittiere",
+        "minions": "Begleiter",
+        "archievments": "Errungenschaften",
+        "classicon": "Klassensymbol",
+        "classname": "Klasse/Job Name",
+        "classlevel": "Level",
+        "submitscreenshot": "Screenshot hinzufügen",
+        "grandcompany0": "Keine",
+        "grandcompany1": "Mahlstrom",
+        "grandcompany3": "Legion der Unsterblichen",
+        "grandcompany2": "Bruderschaft der Morgenviper",
+        "parsedate": "Zuletzt aktualisiert am"
+    },
+    "duty": {
+        "info": "Info",
+        "map": "Map",
+        "battles": "Boss Battles",
+        "quests": "Quests",
+        "loot": "Loot",
+        "guides": "Guides"
+    },
+    "footer": {
+        "copyright_xivdata": "Erstellt mit <i class='fas fa-heart text-danger'></i> von Syntafin. Für ein besseres Eorzea."
+    },
+    "freecompany": {
+        "info_button": "Info",
+        "member_button": "Mitglieder",
+        "screenshots_button": "Screenshots",
+        "bank_button": "Bank",
+        "apply_button": "Bewerben"
+    },
+    "index": {
+        "maintenance": "Maintenance Info",
+        "companion": "Companion",
+        "game": "Worlds",
+        "lodestone": "Lodestone",
+        "mog": "Store",
+        "psn": "PSN",
+        "nomt": "No Maintenance",
+        "mt_starttime": "Starts",
+        "mt_endtime": "Ends",
+        "mt_current": "Currently",
+        "mt_current_false": "No",
+        "mt_current_true": "Maintenance Active",
+        "daysleft": "{0} Maintenance is Today|{1} :days Day until Maintenance|[2,*] :days Days until Maintenance",
+        "more": "More"
+    },
+    "item": {
+        "description": "Beschreibung",
+        "comments": "Kommentare",
+        "crafting": "Synthese",
+        "merchants": "Händler",
+        "screenshots": "Screenshots"
+    },
+    "linkshell": {
+        "member": "Member",
+        "apply": "Bewerben",
+        "description": "Mehr Informationen über :name",
+        "name": "Name",
+        "rank": "Rang",
+        "moreinfo": "Mehr Informationen"
+    },
+    "maintenance": {
+        "undermaintenance": "Page is in Maintenance Mode",
+        "faq1": "What does this mean?",
+        "faq2": "How long will it take?",
+        "faq3": "Need Support?",
+        "faq1txt": "The Page is actual under Maintenance Mode, when we are done with it, the page will be back online, just look in a few Minutes again or check Discord/Twitter for furter updates!",
+        "faq2txt": "In the most cases, this is just when we apply a new update, so it just take a few minutes. If there is a longer Outtime, we will post something in Discord/Twitter to inform you! Please dont ask how long it will take there, it is done when it is done.",
+        "faq3txt": "You have a critical question about the Page/Service? Dont hesistate to ask on our Discord! Please dont ask things about the game just because the Page is in Maintenance (you can ask on the Discord, but please not in the Support-Channel!).",
+        "message": "We are currently under Maintenance. We will be back soon."
+    },
+    "messages": {
+        "welcome": "Willkommen zu XIVDATA",
+        "subtitle": "Dies ist eine Datenbank zu FINAL FANTASY XIV, dem MMORPG der Final Fantasy Reihe.",
+        "pagedescription": "Dies ist eine Datenbank zu FINAL FANTASY XIV, dem MMORPG der Final Fantasy Reihe.",
+        "pagenotfound": "Sorry, Seite nicht gefunden.",
+        "pnf_desc": "It will be as simple as Occidental in fact, it will be Occidental to an English person",
+        "backhome": "Zurück zur Startseite",
+        "language": "Deutsch",
+        "search": "Suche...",
+        "previous": "Vorherige",
+        "next": "Nächste",
+        "character": "Charaktere",
+        "moreinfo": "Mehr",
+        "linkshell": "Kontaktkreis",
+        "messages": "Nachrichten",
+        "home": "Home",
+        "freecompany": "Freie Gesellschaft",
+        "items": "Gegenstände",
+        "linkshells": "Kontaktkreise",
+        "community": "Community",
+        "tools": "Werkzeuge",
+        "about": "Über",
+        "aboutus": "Über uns",
+        "team": "Team",
+        "contact": "Kontakt",
+        "impress": "Impressum",
+        "news": "Neuigkeiten",
+        "member": "Mitglieder",
+        "screenshots": "Screenshots",
+        "german": "Deutsch",
+        "english": "Englisch",
+        "french": "Fränzösisch",
+        "japanese": "Japanisch",
+        "database": "Datenbank",
+        "newscreenshots": "Neuste Screenshots",
+        "discord": "Discord",
+        "login": "Login",
+        "login.subtitle": "Gib deine Login Daten ein",
+        "emailadress": "E-Mail",
+        "password": "Passwort",
+        "confirm_password": "Passwort bestätigen",
+        "remember_login": "Login speichern",
+        "forgot_password": "Passwort vergessen?",
+        "register": "Registrieren",
+        "register_subtitle": "Bei XIVDATA registrieren",
+        "tosinfo": "Mit deiner Registrierung stimmst XIVDATAs",
+        "tos": "Nutzungsbedinungen",
+        "accountalready": "Du besitzt bereits einen Account?",
+        "name": "Benutzername",
+        "latestcomments": "Neuste Kommentare"
+    },
+    "navbar": {
+        "home": "Home",
+        "freecompany": "Free Company",
+        "items": "ItemsDB",
+        "duties": "ContentDB",
+        "linkshells": "Linkshells",
+        "community": "Community",
+        "tools": "Tools",
+        "about": "About",
+        "aboutus": "About Us",
+        "team": "Team",
+        "contact": "Contact",
+        "impress": "Impress",
+        "news": "News",
+        "member": "Member",
+        "screenshots": "Screenshots",
+        "characters": "Characters",
+        "search": "Search"
+    },
+    "news": {
+        "view": "Mehr"
+    },
+    "pagetitle": {
+        "team": "Team",
+        "aboutus": "About Us"
+    },
+    "pagination": {
+        "previous": "&laquo; Zurück",
+        "next": "Weiter &raquo;"
+    },
+    "password": {
+        "reset": "Dein Passwort wurde zurückgesetzt!",
+        "sent": "Wir haben Dir eine E-Mail zur Wiederherstellung deines Passworts gesendet!",
+        "throttled": "Bitte warte :seconds bevor du es erneut versuchst.",
+        "token": "Dein Code zur Wiederherstellung deines Passworts ist falsch.",
+        "user": "Wir können keinen Nutzer mit dieser E-Mail Adresse finden.",
+        "password": "Passwörter müssen mindestens sechs Zeichen lang sein und mit der Bestätigung übereinstimmen."
+    },
+    "placeholder": {
+        "email": "Enter Email",
+        "username": "Enter Username",
+        "password": "Enter Password"
+    },
+    "settings": {
+        "settings": "Page Settings",
+        "chooselayout": "Choose Theme",
+        "darkmode": "Dark Mode",
+        "lightmode": "Light Mode",
+        "vertical": "Vertical Layout",
+        "horizontal": "Horizontal Layout"
+    },
+    "user": {
+        "userprofile": "Mein Profil",
+        "profileinfo": "Sieh und bearbeite deine Profil-Informationen",
+        "profile": "Profil",
+        "pm": "Private Nachrichten",
+        "settings": "Einstellungen",
+        "security": "Sicherheit",
+        "friendlist": "Freundesliste",
+        "blacklist": "Schwarze Liste",
+        "logout": "Ausloggen",
+        "login": "Einloggen",
+        "register": "Registrieren",
+        "admin": "Admin",
+        "edit": "Bearbeiten",
+        "validate": "Bestätigen",
+        "remove": "Entfernen",
+        "mycharacterlist": "Meine Charaktere",
+        "charactername": "Charaktername",
+        "actions": "Aktionen",
+        "loginsucefully": "Du bist nun eingeloggt! Viel Spaß!",
+        "translations": "Übersetzungen"
+    },
+    "validation": {
+        "later": "Will come later in :D do not Translate this!"
+    },
+    "widgets": {
+        "discord_voicechannel": "Sprachkanäle",
+        "discord_memberlist": "Mitglieder Online",
+        "discord_novoice": "Keine Sprachkanäle verfügbar",
+        "discord_playing": "Spielt:",
+        "discord_joinserver": ":server beitreten"
+    }
+}
