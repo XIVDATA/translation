@@ -1,0 +1,55 @@
+{
+    "main": {
+        "welcome": "Hello from {company}!",
+        "newscreenshots": "New Screenshots"
+    },
+    "errors": {
+        "btd": "Back to Dashboard",
+        "404": "Sorry, page ot found",
+        "404desc": "Sounds terrible? Yes! But whatever you looking for here, it is not here. Sorry!",
+        "500": "Server Error",
+        "500desc": "Something went wrong!",
+        "503": "Service Unavailable"
+    },
+    "discord": {
+        "voicechannel": "Voice Channel",
+        "no_vc": "No Voice Channel avaible",
+        "membersonline": "Members Online"
+    },
+    "character": {
+        "name": "Name",
+        "gender": "Gender",
+        "race": "Race",
+        "tribe": "Tribe",
+        "screenshots": "Screenshots",
+        "nameday": "Birthday",
+        "grandcompanyname": "Grand Company",
+        "freecompany": "Free Company",
+        "NotA": "Not Available",
+        "class": "Class",
+        "bio": "Biography",
+        "info_button": "Character Info",
+        "portrait": "Portrait",
+        "classjobs": "Classes/Jobs",
+        "mounts": "Mounts",
+        "minions": "Minions",
+        "archievments": "Achievements",
+        "classicon": "Class/Job Symbol",
+        "classname": "Class/Job Name",
+        "classlevel": "Level",
+        "submitscreenshot": "Submit a new Screenshot",
+        "grandcompany0": "None",
+        "grandcompany1": "Maelstrom",
+        "grandcompany3": "Immortal Flames",
+        "grandcompany2": "Order of the Twin Adder",
+        "parsedate": "Last Updated",
+        "linkshells": "Linkshells",
+        "cws": "Cross-World Linkshells",
+        "trophy_name": "Name of Archievement",
+        "trophy_obtained": "Obtained",
+        "trophy_points": "Points earned",
+        "level": "Level",
+        "exptilnextlvl": "Expierence needed for next Level:",
+        "percent": "Actual Percentage:"
+    }
+}
