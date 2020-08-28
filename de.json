@@ -1,7 +1,14 @@
 {
     "main": {
         "welcome": "Willkommen bei XIVDATA!",
-        "newscreenshots": "Neue Screenshots"
+        "newscreenshots": "Neue Screenshots",
+        "language": "Sprache"
+    },
+    "languages": {
+        "en": "Englisch",
+        "de": "Deutsch",
+        "fr": "Französisch",
+        "ja": "Japanisch"
     },
     "auth": {
         "failed": "Die angegebenen Daten sind nicht korrekt.",
@@ -27,7 +34,8 @@
     "discord": {
         "voicechannel": "Voice Channel",
         "no_vc": "No Voice Channel avaible",
-        "membersonline": "Members Online"
+        "membersonline": "Members Online",
+        "join": "{servername} beitreten"
     },
     "character": {
         "name": "Name",

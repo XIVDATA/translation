@@ -1,7 +1,14 @@
 {
     "main": {
         "welcome": "Welcome to XIVDATA!",
-        "newscreenshots": "New Screenshots"
+        "newscreenshots": "New Screenshots",
+        "language": "Language"
+    },
+    "languages": {
+        "en": "English",
+        "de": "German",
+        "fr": "French",
+        "ja": "Japanese"
     },
     "auth": {
         "failed": "These credentials do not match our records.",
@@ -27,7 +34,8 @@
     "discord": {
         "voicechannel": "Voice Channel",
         "no_vc": "No Voice Channel avaible",
-        "membersonline": "Members Online"
+        "membersonline": "Members Online",
+        "join": "Join {servername}"
     },
     "character": {
         "name": "Name",
