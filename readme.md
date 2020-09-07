@@ -1,5 +1,3 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/XIVDATA/translation)
-
 # XIVDATA
 <p align="center>
     <a href="https://github.com/syntafin/xivdata/blob/master/LICENSE"><img src="https://img.shields.io/github/license/syntafin/xivdata?label=License&labelColor=30363D&color=2FBF50" alt="License"></a>
